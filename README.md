@@ -12,9 +12,12 @@ _create your own local layer 1 blockchain on avalanche using subnets_
 ### Commands used
 1) Create the subnet by running avalanche blockchain create [name]
 ```sh
-avalanche blockchain create awesomepizza
+avalanche blockchain create cryptonews
 ```
 2) 
 ```sh 
-avalanche blockchain deploy awesomepizza
+avalanche blockchain deploy cryptonews
 ```
+
+### Resources
+- [AvalancheGo Video](https://youtu.be/V84sv5RrqSY?si=l-K2stXrmnFH9glv)

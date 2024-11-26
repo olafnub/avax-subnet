@@ -11,6 +11,7 @@ cryptonews = "http://localhost:9650/ext/bc/cryptonews/rpc"
 fuji-c = "https://api.avax-test.network/ext/bc/C/rpc"
 dispatch = "https://subnets.avax.network/dispatch/testnet/rpc"
 mysubnet = "http://localhost:9650/ext/bc/mysubnet/rpc"
+private-key = ""
 
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
