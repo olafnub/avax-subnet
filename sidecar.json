@@ -1,0 +1,31 @@
+{
+    "Name": "cryptonews",
+    "VM": "Subnet-EVM",
+    "VMVersion": "v0.6.12",
+    "RPCVersion": 38,
+    "Subnet": "cryptonews",
+    "ExternalToken": false,
+    "TokenName": "CRN Token",
+    "TokenSymbol": "CRN",
+    "ChainID": "",
+    "Version": "1.4.0",
+    "Networks": {
+        "Local Network": {
+            "SubnetID": "26eqgD4Kt1MvTKXC9BDjEwBAfhcBcHCKj2EXjR2UuFpSWoAHhw",
+            "BlockchainID": "284QcoqVEucjXp3CFCZTcn1yWdYMa1KCCpzgX84oPd2pPQaj9P",
+            "RPCVersion": 38,
+            "TeleporterMessengerAddress": "0x253b2784c75e510dD0fF1da844684a1aC0aa5fcf",
+            "TeleporterRegistryAddress": "0x7115bC3b85Afaa569f52cC7544dD7F711FE66084"
+        }
+    },
+    "ImportedFromAPM": false,
+    "ImportedVMID": "",
+    "CustomVMRepoURL": "",
+    "CustomVMBranch": "",
+    "CustomVMBuildScript": "",
+    "TeleporterReady": true,
+    "TeleporterKey": "cli-teleporter-deployer",
+    "TeleporterVersion": "v1.0.0",
+    "RunRelayer": true,
+    "SubnetEVMMainnetChainID": 0
+}
